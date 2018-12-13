@@ -1,0 +1,51 @@
+body {
+  padding-top: 40px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  border-radius: 10px;
+  font-size: 16px;
+  height: 40px;
+  outline: none;
+}
+
+button#increment {
+  color: rgb(0, 114, 177);
+}
+
+button#increment:active {
+  border: 1px solid rgb(0, 114, 177);
+}
+
+button#decrement {
+  color: red;
+}
+
+button#decrement:active {
+  border: 1px solid red;
+}
+
+h2 {
+  display: inline-block;
+  margin: 20px;
+  width: 20px;
+}
+
+h2.zero {
+  color: rgb(0, 43, 63);
+}
+
+h2.positive {
+  color: rgb(0, 114, 177);
+}
+
+h2.negative {
+  color: red;
+}
