@@ -10,7 +10,7 @@
 #### General Comments
 * Backbone is a lightweight JavaScript library. It only provides the bare minimum of a framework. If the developer needs any more features, they would have to build it.
 
-* It is loosely based on the Model-View-Controller design pattern, but it does not have the Controller element. However, it does support RESTful APIS so models in Backbone can be tied to a back-end. 
+* It is loosely based on the Model-View-Controller design pattern, but it does not have the Controller element. However, it does support RESTful APIs so models in Backbone can be tied to a back-end. 
 
 * It is used for developing single-page web applications and client-side applications that run in a web browser. When handling the DOM, Backbone adopts an imperative programming style.
 
